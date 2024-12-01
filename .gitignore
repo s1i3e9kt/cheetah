@@ -1,0 +1,5 @@
+.zed
+.zig-cache
+zig-out
+cpp/inc
+cpp/lib
